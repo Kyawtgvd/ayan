@@ -40,3 +40,7 @@ http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1998.ts
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2125.ts
 #EXTINF:-1group-title="Sport HD",Sky Sport Main Event (divine)
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2131.ts
+#EXTINF:-1group-title="Sport HD",Star Sport Select 1 (robsre)
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AA:E7:EB&stream=862747&extension=ts&play_token=dhRyImmMNC
+#EXTINF:-1group-title="Sport HD",Star Sport Select 2 (robsre)
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AA:E7:EB&stream=862748&extension=ts&play_token=KqwWEPWlUd
