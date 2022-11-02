@@ -1,46 +1,36 @@
 #EXTINF:-1group-title="Sport HD",USA Network (nanplay)
 http://nandplay.club:8080/live/panelespana/YgVhqqnVEdEG/1222.ts
-
+#EXTINF:-1group-title="Sport HD",USA Network (dnsplay)
+http://dnsplay.xyz:80/live/kYEN2csdnp/1QhRzxjr7pH4Q/43901.ts
 #EXTINF:-1group-title="Sport HD",USA TUDN (nandplay)
 http://nandplay.club:8080/live/panelespana/YgVhqqnVEdEG/1271.ts
-
 #EXTINF:-1group-title="Sport HD",USA ESPN Deportes (nandplay)
 http://nandplay.club:8080/live/panelespana/YgVhqqnVEdEG/1246.ts
+#EXTINF:-1group-title="Sport HD",USA Network (ky)
+http://ky-iptv.com/live/Grayson1/Grayson1/175967.ts
+#EXTINF:-1group-title="Sport HD",USA Univision (nandplay)
+https://nandplay.club:2053/live/panelespana/YgVhqqnVEdEG/1193.ts
 
 #EXTINF:-1group-title="Sport HD",Bein Sport 1 English (H live)
 http://xtmm.live/live/613809/613809/5354.ts
-
-#EXTINF:-1group-title="Sport HD",Now HK Premier Sport (H live)
-http://xtmm.live/live/613809/613809/91.ts
-
-#EXTINF:-1group-title="Sport HD",Astro Super Sport 3 (H live)
-http://xtmm.live/live/613809/613809/73.ts
-
-#EXTINF:-1group-title="Sport HD",Eleven Sport 1 (H live)
-http://xtmm.live/live/613809/613809/113.ts
-
-#EXTINF:-1group-title="Sport HD",Sky Sport Premier League (H live)
-http://xtmm.live/live/613809/613809/143.ts
-
-#EXTINF:-1group-title="Movie",Epic (H live)
-http://xtmm.live/movie/613809/613809/16787.mp4
-
 #EXTINF:-1group-title="Sport HD",Bein Sport 1 English (xtra)
 http://xtratexxx.dimapro.xyz:8080/live/vipteste/ey6eJaKbbn/91568.ts
-
-#EXTINF:-1group-title="Sport HD",Bein Sport 1 English 50fps (xtra) 🏵
-http://xtratexxx.dimapro.xyz:8080/live/vipteste/ey6eJaKbbn/91123.ts
-
 #EXTINF:-1group-title="Sport HD",Bein Sport 1 English (xtra)
 http://xtratexxx.dimapro.xyz:8080/live/vipteste/ey6eJaKbbn/90195.ts
 
-#EXTINF:-1group-title="Sport HD",USA Network (dnsplay)
-http://dnsplay.xyz:80/live/kYEN2csdnp/1QhRzxjr7pH4Q/43901.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Premier League (H live)
+http://xtmm.live/live/613809/613809/143.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 1 (ott indz)
+http://ott.indz.xyz:25461/live/Jad/Jad/10526.ts
+#EXTINF:-1group-title="Sport HD",Astro Super Sport 3 (H live)
+http://xtmm.live/live/613809/613809/73.ts
+#EXTINF:-1group-title="Sport HD",Eleven Sport 1 (H live)
+http://xtmm.live/live/613809/613809/113.ts
+#EXTINF:-1group-title="Sport HD",Now HK Premier Sport (H live)
+http://xtmm.live/live/613809/613809/91.ts
 
-#EXTINF:-1group-title="Sport HD",USA Network (720p web)
-#EXTVLCOPT:http-referrer=http://maxsports.site/fb-epl/
-http://185.53.89.183/hls/M1.m3u8
-
+#EXTINF:-1group-title="Movie",Epic (H live)
+http://xtmm.live/movie/613809/613809/16787.mp4
 #EXTINF:-1group-title="Canal+",Canal+ Action
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941760&extension=ts&play_token=RwnfeLvcnc
 #EXTINF:-1group-title="Canal+",Canal+ Chatate
