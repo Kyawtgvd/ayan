@@ -1,22 +1,3 @@
-#EXTINF:-1group-title="Sport HD",USA Network (dnsplay)
-http://dnsplay.xyz:80/live/kYEN2csdnp/1QhRzxjr7pH4Q/43901.ts
-#EXTINF:-1group-title="Sport HD",USA Network (ky)
-http://ky-iptv.com/live/Grayson1/Grayson1/175967.ts
-#EXTINF:-1group-title="Sport HD",Bein Sport 1 English (H live)
-http://xtmm.live/live/613809/613809/5354.ts
-#EXTINF:-1group-title="Sport HD",Bein Sport 1 English (xtra)
-http://xtratexxx.dimapro.xyz:8080/live/vipteste/ey6eJaKbbn/91568.ts
-#EXTINF:-1group-title="Sport HD",Bein Sport 1 English (xtra)
-http://xtratexxx.dimapro.xyz:8080/live/vipteste/ey6eJaKbbn/90195.ts
-#EXTINF:-1group-title="Sport HD",Sky Sport Premier League (H live)
-http://xtmm.live/live/613809/613809/143.ts
-#EXTINF:-1group-title="Sport HD",Astro Super Sport 3 (H live)
-http://xtmm.live/live/613809/613809/73.ts
-#EXTINF:-1group-title="Sport HD",Eleven Sport 1 (H live)
-http://xtmm.live/live/613809/613809/113.ts
-#EXTINF:-1group-title="Sport HD",Now HK Premier Sport (H live)
-http://xtmm.live/live/613809/613809/91.ts
-
 #EXTINF:-1group-title="Canal+",Canal+ Action
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941760&extension=ts&play_token=RwnfeLvcnc
 #EXTINF:-1group-title="Canal+",Canal+ Chatate
