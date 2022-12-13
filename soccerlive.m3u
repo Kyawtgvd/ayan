@@ -1,3 +1,22 @@
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",BBC One (gun)
+http://gunslingertv.org:8080/live/iptvking150/GZDMfzp7YX/41837.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",ITV 1 (gun)
+http://gunslingertv.org:8080/live/iptvking150/GZDMfzp7YX/6512.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TSN 1 (gun)
+http://gunslingertv.org:8080/live/iptvking150/GZDMfzp7YX/5260.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Sport Tv 1 (gun)
+http://gunslingertv.org:8080/live/iptvking150/GZDMfzp7YX/59494.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Sport Tv 1 (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/230107.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TRT 4K (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/223945.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",ITV 1 (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/222672.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TSN 1 (opplex) 720p
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/242543.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TSN 1 (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/225867.ts
+
 #EXTINF:-1group-title="Canal+",Canal+ Action
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941760&extension=ts&play_token=RwnfeLvcnc
 #EXTINF:-1group-title="Canal+",Canal+ Chatate
