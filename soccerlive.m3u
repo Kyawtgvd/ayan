@@ -1,11 +1,15 @@
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TF1 (pro)
+http://pro.ipcover.tv:8080/live/BIGIPTV123/FhdjfJfrxgg/240875.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Math (msub) 
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",BBC One (gun)
-http://gunslingertv.org:8080/live/iptvking150/GZDMfzp7YX/41837.ts
-#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",ITV 1 (gun)
-http://gunslingertv.org:8080/live/iptvking150/GZDMfzp7YX/6512.ts
-#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TSN 1 (gun)
-http://gunslingertv.org:8080/live/iptvking150/GZDMfzp7YX/5260.ts
-#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Sport Tv 1 (gun)
-http://gunslingertv.org:8080/live/iptvking150/GZDMfzp7YX/59494.ts
+http://gunslingertv.org:8080/live/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/41837.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",BBC One (ukfhd)
+http://ukfhdiptv.com:8880/play/live.php?mac=00:1A:79:AB:ED:40&stream=113&extension=ts&play_token=OqUwUeNVl2
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",BBC One (sinbox)
+http://sinbox.pro:8080/live/casper01/H3g3gADDS2/121235.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TSN 1 (sinbox)
+http://sinbox.pro:8080/live/casper01/H3g3gADDS2/89343.ts
 #EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Sport Tv 1 (opplex)
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/230107.ts
 #EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TRT 4K (opplex)
@@ -16,25 +20,6 @@ http://xtv.ooo:8080/live/Univision@RE/100Bangla/222672.ts
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/242543.ts
 #EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TSN 1 (opplex)
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/225867.ts
-
-#EXTINF:-1group-title="Canal+",Canal+ Action
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941760&extension=ts&play_token=RwnfeLvcnc
-#EXTINF:-1group-title="Canal+",Canal+ Chatate
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941757&extension=ts&play_token=nppGj2aBUB
-#EXTINF:-1group-title="Canal+",Canal+ Kyilite
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941758&extension=ts&play_token=SfXZTGmDbb
-#EXTINF:-1group-title="Canal+",Canal+ Maemadi
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941761&extension=ts&play_token=YKmln4RlJq
-#EXTINF:-1group-title="Canal+",Canal+ Pututue
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941756&extension=ts&play_token=JzjyHsBB0c
-#EXTINF:-1group-title="Canal+",Canal+ Sport 1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941755&extension=ts&play_token=P3081ZPVOM
-#EXTINF:-1group-title="Canal+",Canal+ Sport 2
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941754&extension=ts&play_token=uknhMOhynW
-#EXTINF:-1group-title="Canal+",Canal+ Susann
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941762&extension=ts&play_token=ocoIHJvWER
-#EXTINF:-1group-title="Canal+",Canal+ Zatlenn
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:0E:16:D8&stream=941759&extension=ts&play_token=BB9FOObrFB
 
 #EXTINF:-1tvg-logo="https://photos.hancinema.net/photos/photo1539829.jpg"group-title="Movie 📽",Confidential Assignment 2 (2022)
 https://ko.htay2.workers.dev/0:/Latest%20Movies%20(By%20Month)/10.October,%202022/Confidential.Assignment.2.International.2022.1080p.WEBDL.CM.mp4
